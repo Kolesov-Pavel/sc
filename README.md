@@ -1,0 +1,2 @@
+# sc
+для result.school
